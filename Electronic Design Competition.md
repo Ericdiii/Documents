@@ -1,6 +1,6 @@
 # Certification:  Third prize of the 13th "Chuangxing Cup" electronic design competition
 
-<https://github.com/Ericdiii/PhD-Application/blob/main/image/Chuangxing_Cup.jpg" height="500"/> 
+<"https://github.com/Ericdiii/PhD-Application/blob/main/image/Chuangxing_Cup.jpg" height="500"/> 
 
 
 ### Translation:
