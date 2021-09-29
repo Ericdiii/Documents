@@ -9,7 +9,7 @@
 July 22, 2019</br>
 
 
-To Yang Di (Tianjin Polytechnic University):</br>
+To Yang Di (Tiangong University):</br>
 
 You have made a lot of contributions to the volunteer activities for the control of sand and dust sources. I would like to express my gratitude to you for your active participation and your voluntary service. This certificate is issued and hereby certify.</br>
 
