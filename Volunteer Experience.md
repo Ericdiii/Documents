@@ -1,6 +1,6 @@
 # Certification:  Environmental Volunteering
 
-<img src="https://github.com/Ericdiii/PhD-Application/blob/main/image/Environmental_Volunteering.jpg" height="260"/> 
+<img src="https://github.com/Ericdiii/PhD-Application/blob/main/image/Environmental_Volunteering.jpg" height="500"/> 
 
 
 ### Translation:
