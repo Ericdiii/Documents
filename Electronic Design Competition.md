@@ -6,10 +6,10 @@
 ### Translation:
 
 
-June, 2018
+June, 2018</br>
 
 To students Yang Di, Jianing Li, and Shumin Lin:</br>
-In the 13th "Chuangxing Cup" Practice Ability Competition of our institute, they achieved excellent results and won the third prize of the electronic design competition. This certificate is hereby issued as a reward.
+In the 13th "Chuangxing Cup" Practice Ability Competition of our institute, they achieved excellent results and won the third prize of the electronic design competition. This certificate is hereby issued as a reward.</br>
 
 School of Electronics and Information Engineering</br>
 Tianjin Polytechnic University
