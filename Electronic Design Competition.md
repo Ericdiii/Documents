@@ -1,8 +1,5 @@
 # Certification:  Third prize of the 13th "Chuangxing Cup" electronic design competition
 
-<img src="https://github.com/Ericdiii/PhD-Application/blob/main/image/Chuangxing_Cup.jpg" height="500"/> 
-
-
 ### Translation:
 
 
@@ -14,3 +11,8 @@ In the 13th "Chuangxing Cup" Practice Ability Competition of our institute, they
 
 School of Electronics and Information Engineering</br>
 Tiangong University
+
+
+<img src="https://github.com/Ericdiii/PhD-Application/blob/main/image/Chuangxing_Cup.jpg" height="500"/> 
+
+
